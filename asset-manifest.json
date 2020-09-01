@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anjay-generator/static/css/main.bcdcf28e.chunk.css",
+    "main.js": "/anjay-generator/static/js/main.66a59390.chunk.js",
+    "main.js.map": "/anjay-generator/static/js/main.66a59390.chunk.js.map",
+    "runtime-main.js": "/anjay-generator/static/js/runtime-main.4897c4da.js",
+    "runtime-main.js.map": "/anjay-generator/static/js/runtime-main.4897c4da.js.map",
+    "static/css/2.d34346ea.chunk.css": "/anjay-generator/static/css/2.d34346ea.chunk.css",
+    "static/js/2.b112b839.chunk.js": "/anjay-generator/static/js/2.b112b839.chunk.js",
+    "static/js/2.b112b839.chunk.js.map": "/anjay-generator/static/js/2.b112b839.chunk.js.map",
+    "index.html": "/anjay-generator/index.html",
+    "precache-manifest.dd29114c476a3fbf3ee67888c5afea4a.js": "/anjay-generator/precache-manifest.dd29114c476a3fbf3ee67888c5afea4a.js",
+    "service-worker.js": "/anjay-generator/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/anjay-generator/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.bcdcf28e.chunk.css.map": "/anjay-generator/static/css/main.bcdcf28e.chunk.css.map",
+    "static/js/2.b112b839.chunk.js.LICENSE.txt": "/anjay-generator/static/js/2.b112b839.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4897c4da.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.b112b839.chunk.js",
+    "static/css/main.bcdcf28e.chunk.css",
+    "static/js/main.66a59390.chunk.js"
+  ]
+}
